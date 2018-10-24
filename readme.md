@@ -1,4 +1,5 @@
 # Earthworm
+[Visit the site now!](https://alexwebbb.github.io/earthworm/)
 
 Earthworm is a visualization of Google's Elevation API utilizing D3. Each time you drag the box, the view on the graph will update. The view is constructed by making a series of path requests to the Elevation API perpendicular to the plane of the graph. Earthworm "crawls" along the surface of the earth. Clicking the rotate buttons will rotate the plane of view 90 degrees, resulting in a different query and view.
 
