@@ -5,6 +5,8 @@ Earthworm is a visualization of Google's Elevation API utilizing D3. Each time y
 
 ![A view of the website utilizing a large view](http://res.cloudinary.com/execool/image/upload/v1512385296/earthworm/readme-img.png "The Website in Action")
 
+The Google Elevation API allows one to make path requests, providing elevation and coordinates based on the start and end points you provide, at intervals along the path. For example, if I specify 10 points, it will provide 10 coordinates along the path, evenly spaced, with the first and last coordinates corresponding to the start and end points of the path. I am doing this along the edges of the box, so for example there is a path at the bottom edge of the box, and then a path one interval closer to the back of the box, for a total of 5 paths.
+
 ## Tech Used
 
 + HTML
